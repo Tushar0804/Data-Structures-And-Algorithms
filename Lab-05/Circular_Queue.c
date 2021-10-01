@@ -1,5 +1,4 @@
 // Write a program to implement Circular Queue.
-// Tushar Sharma 20011908 Sec-A
 
 #include <stdio.h>
 #define MAX 10
