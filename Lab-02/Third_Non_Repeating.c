@@ -1,5 +1,5 @@
 // Write a the C program to create an array by inserting N elements in it
-// then find third repeating element from the array.
+// then find third non repeating element from the array.
 
 #include <stdio.h>
 
