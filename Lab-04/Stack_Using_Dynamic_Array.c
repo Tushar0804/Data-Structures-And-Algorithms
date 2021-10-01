@@ -1,5 +1,4 @@
 // Write a C program to Implementation Stack Using Dynamic Array.
-// Tushar Sharma 20011908 Sec-A
 
 #include <stdio.h>
 #include <stdlib.h>
